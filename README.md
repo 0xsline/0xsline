@@ -1,8 +1,8 @@
 ### Hi, I'm sline 👋
 
-A developer who enjoys building tools and contributing to open source.
+A developer focused on **AI Agents**, **LLM applications**, and **automation tooling**.
 
-Currently into CLI tooling, browser automation, and AI applications.
+Building at the intersection of large language models, browser automation, and developer experience. Passionate about turning AI capabilities into practical, open-source tools.
 
 ---
 
@@ -14,12 +14,6 @@ Currently into CLI tooling, browser automation, and AI applications.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsline&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
 
 ---
 
