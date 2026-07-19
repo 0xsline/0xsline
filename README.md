@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/hero.svg" width="100%" alt="sline — AI agents, creative tools, and automation" />
+  <img src="./profile/hero-modern.svg" width="100%" alt="sline, independent developer building open-source software" />
 </p>
 
 <p align="center">
