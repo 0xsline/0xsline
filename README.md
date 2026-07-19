@@ -17,4 +17,4 @@ Building at the intersection of large language models, browser automation, and d
 
 ---
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=0xsline&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsline&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="./profile/stats.svg" alt="GitHub stats" /> <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
