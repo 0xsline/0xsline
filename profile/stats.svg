@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">sline&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 4050, Total Commits  : 3318, Total PRs: 44, Total Issues: 3, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 4176, Total Commits  : 3362, Total PRs: 44, Total Issues: 3, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.0302973650216;
+        stroke-dashoffset: 75.84213734471614;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >4k</text>
+      >4.2k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >3.3k</text>
+      >3.4k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
